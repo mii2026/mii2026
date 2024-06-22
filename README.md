@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&text=Kimjihee&fontSize=40">
+<img src="https://capsule-render.vercel.app/api?type=waving&text=Kimjihee&fontSize=30&fontAlign=10">
 <div align=center>
 	<h3>🛠 Skills 🛠</h3>
 </div>
