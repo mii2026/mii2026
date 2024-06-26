@@ -29,12 +29,7 @@
 <br>
 <div align=center>
 	<h3>✨ Connect ✨</h3>
-</div>
-<div align=center>
-  <a href="[https://dhdev.tistory.com/](https://https://github.com/mii2026)">
-		<img src="https://img.shields.io/badge/github-orange?style=for-the-badge" />
-	</a>
-	 <a href="[https://dhdev.tistory.com/](https://blog.naver.com/mii2026)">
+	 <a href="https://blog.naver.com/mii2026">
 		<img src="https://img.shields.io/badge/blog-green?style=for-the-badge" />
 	</a>
 </div>
